@@ -1,0 +1,13 @@
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\bin\Debug\netcoreapp3.1\HostelSolution.exe
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\bin\Debug\netcoreapp3.1\HostelSolution.deps.json
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\bin\Debug\netcoreapp3.1\HostelSolution.runtimeconfig.json
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\bin\Debug\netcoreapp3.1\HostelSolution.runtimeconfig.dev.json
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\bin\Debug\netcoreapp3.1\HostelSolution.dll
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\bin\Debug\netcoreapp3.1\HostelSolution.pdb
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\obj\Debug\netcoreapp3.1\HostelSolution.csprojAssemblyReference.cache
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\obj\Debug\netcoreapp3.1\HostelSolution.AssemblyInfoInputs.cache
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\obj\Debug\netcoreapp3.1\HostelSolution.AssemblyInfo.cs
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\obj\Debug\netcoreapp3.1\HostelSolution.csproj.CoreCompileInputs.cache
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\obj\Debug\netcoreapp3.1\HostelSolution.dll
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\obj\Debug\netcoreapp3.1\HostelSolution.pdb
+C:\Users\4figh\source\repos\HostelSolution\HostelSolution\obj\Debug\netcoreapp3.1\HostelSolution.genruntimeconfig.cache
